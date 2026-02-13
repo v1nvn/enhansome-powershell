@@ -1,6 +1,6 @@
 # Awesome PowerShell with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,833 | 🐛 67 | 📅 2026-01-28 [![Link Verification](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml) ⚠️ Archived
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,050 | 🐛 69 | 📅 2026-01-28 [![Link Verification](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml) ⚠️ Archived
 
 A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
 
@@ -93,15 +93,15 @@ It includes a command-line shell and an associated scripting language.
 
 ## Commandline Productivity
 
-* [thefuck](https://github.com/nvbn/thefuck) ⭐ 95,448 | 🐛 406 | 🌐 Python | 📅 2024-07-19 - Magnificent app which corrects your previous console command (by typing `fuck`).
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,324 | 🐛 149 | 🌐 Rust | 📅 2026-02-07 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [thefuck](https://github.com/nvbn/thefuck) ⭐ 95,460 | 🐛 406 | 🌐 Python | 📅 2024-07-19 - Magnificent app which corrects your previous console command (by typing `fuck`).
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 33,344 | 🐛 152 | 🌐 Rust | 📅 2026-02-07 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 * [posh-git](https://github.com/dahlbyk/posh-git) ⭐ 8,150 | 🐛 113 | 🌐 PowerShell | 📅 2024-09-02 - Set of PowerShell scripts which provide Git/PowerShell integration.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)\* [peco](https://github.com/peco/peco) ⭐ 7,859 | 🐛 52 | 🌐 Go | 📅 2025-11-09 implementation. Interactive filtering tool.
-* [PSReadLine](https://github.com/lzybkr/PSReadLine) ⭐ 4,181 | 🐛 229 | 🌐 C# | 📅 2026-02-10 - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
-* [PSFzf](https://github.com/kelleyma49/PSFzf) ⭐ 1,078 | 🐛 50 | 🌐 PowerShell | 📅 2026-01-24 - a PowerShell module that wraps [fzf](https://github.com/junegunn/fzf) ⭐ 77,716 | 🐛 323 | 🌐 Go | 📅 2026-02-09, a fuzzy file finder for the command line.
+* [PSReadLine](https://github.com/lzybkr/PSReadLine) ⭐ 4,184 | 🐛 230 | 🌐 C# | 📅 2026-02-10 - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+* [PSFzf](https://github.com/kelleyma49/PSFzf) ⭐ 1,078 | 🐛 50 | 🌐 PowerShell | 📅 2026-01-24 - a PowerShell module that wraps [fzf](https://github.com/junegunn/fzf) ⭐ 77,736 | 🐛 326 | 🌐 Go | 📅 2026-02-09, a fuzzy file finder for the command line.
 * [PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) ⭐ 990 | 🐛 2 | 🌐 PowerShell | 📅 2025-03-26 - A set of of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console.
-* [Zlocation](https://github.com/vors/ZLocation) ⭐ 612 | 🐛 31 | 🌐 PowerShell | 📅 2024-05-22 \* [z.sh](https://github.com/rupa/z) ⭐ 16,921 | 🐛 105 | 🌐 Shell | 📅 2024-06-19 implementation for PowerShell. Similar to Jump-Location.
-* [Jump-Location](https://github.com/tkellogg/Jump-Location) ⭐ 471 | 🐛 17 | 🌐 C# | 📅 2019-09-26 - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) ⭐ 16,826 | 🐛 225 | 🌐 Python | 📅 2025-02-27 implementation for PowerShell. **`UNMAINTAINED`**
+* [Zlocation](https://github.com/vors/ZLocation) ⭐ 612 | 🐛 31 | 🌐 PowerShell | 📅 2024-05-22 \* [z.sh](https://github.com/rupa/z) ⭐ 16,922 | 🐛 105 | 🌐 Shell | 📅 2024-06-19 implementation for PowerShell. Similar to Jump-Location.
+* [Jump-Location](https://github.com/tkellogg/Jump-Location) ⭐ 471 | 🐛 17 | 🌐 C# | 📅 2019-09-26 - PowerShell `cd` that reads your mind. [Autojump](https://github.com/wting/autojump) ⭐ 16,828 | 🐛 225 | 🌐 Python | 📅 2025-02-27 implementation for PowerShell. **`UNMAINTAINED`**
 * [PSDepend](https://github.com/RamblingCookieMonster/PSDepend/) ⭐ 292 | 🐛 57 | 🌐 PowerShell | 📅 2023-09-07 - PowerShell Dependency Handler
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) ⭐ 202 | 🐛 15 | 🌐 PowerShell | 📅 2019-01-11 - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 * [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) ⭐ 157 | 🐛 4 | 🌐 PowerShell | 📅 2025-05-31 - Designed to make the user's console life more convenient. It includes shortcuts, aliases, key bindings and convenience functions geared towards greater efficiency and less typing.
@@ -120,7 +120,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Data
 
-* [ImportExcel](https://github.com/dfinke/ImportExcel) ⭐ 2,690 | 🐛 11 | 🌐 PowerShell | 📅 2025-12-26 - Module to import/export Excel spreadsheets, without Excel.
+* [ImportExcel](https://github.com/dfinke/ImportExcel) ⭐ 2,691 | 🐛 11 | 🌐 PowerShell | 📅 2025-12-26 - Module to import/export Excel spreadsheets, without Excel.
 * [PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) ⭐ 980 | 🐛 69 | 🌐 PowerShell | 📅 2025-12-29 - PSWriteHTML is a PowerShell module allowing you to create HTML easily.
 * [powershell-yaml](https://github.com/cloudbase/powershell-yaml) ⭐ 493 | 🐛 4 | 🌐 PowerShell | 📅 2026-01-05 - PowerShell CmdLets for YAML format manipulation.
 * [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) ⚠️ Archived - Module to create Microsoft Word documents without Microsoft Word installed.
@@ -145,8 +145,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Frameworks
 
-* [Kansa](https://github.com/davehull/Kansa) ⭐ 1,638 | 🐛 46 | 🌐 PowerShell | 📅 2022-11-22 - Incident response framework.
-* [PSCX](https://github.com/Pscx/Pscx) ⭐ 773 | 🐛 35 | 🌐 C# | 📅 2025-10-01 - PowerShell Community Extensions - Useful set of additional cmdlets.
+* [Kansa](https://github.com/davehull/Kansa) ⭐ 1,639 | 🐛 46 | 🌐 PowerShell | 📅 2022-11-22 - Incident response framework.
+* [PSCX](https://github.com/Pscx/Pscx) ⭐ 774 | 🐛 35 | 🌐 C# | 📅 2025-10-01 - PowerShell Community Extensions - Useful set of additional cmdlets.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) ⭐ 477 | 🐛 102 | 🌐 PowerShell | 📅 2026-01-13 - Easily add configurations, logging and more to your own PowerShell module.
 * [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) ⚠️ Archived - Powerful server management framework.
 * [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
@@ -162,7 +162,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Module Development Templates
 
-* [Plaster](https://github.com/PowerShell/Plaster) ⭐ 738 | 🐛 2 | 🌐 PowerShell | 📅 2026-02-11 - Plaster is a template-based file and project generator written in PowerShell.
+* [Plaster](https://github.com/PowerShell/Plaster) ⭐ 738 | 🐛 4 | 🌐 PowerShell | 📅 2026-02-12 - Plaster is a template-based file and project generator written in PowerShell.
 * [Catesta](https://github.com/techthoughts2/Catesta) ⭐ 190 | 🐛 10 | 🌐 PowerShell | 📅 2025-03-10 - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 * [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) ⭐ 146 | 🐛 41 | 🌐 PowerShell | 📅 2026-01-18 - Get started using module templates in 2 minutes with this module's low entry barrier and casual convenience.
 
@@ -188,12 +188,12 @@ It includes a command-line shell and an associated scripting language.
 ## Security
 
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ⚠️ Archived - Post-exploitation framework.
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,542 | 🐛 94 | 🌐 PowerShell | 📅 2025-08-01 - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.
-* [Nishang](https://github.com/samratashok/nishang) ⭐ 9,743 | 🐛 21 | 🌐 PowerShell | 📅 2024-04-25 - Enables scripting for red team, penetration testing, and offensive security.
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,543 | 🐛 94 | 🌐 PowerShell | 📅 2025-08-01 - Easily identify highly complex attack paths that would otherwise be impossible to quickly identify.
+* [Nishang](https://github.com/samratashok/nishang) ⭐ 9,745 | 🐛 21 | 🌐 PowerShell | 📅 2024-04-25 - Enables scripting for red team, penetration testing, and offensive security.
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) ⚠️ Archived - Post-exploitation agent.
 * [Invoke-Obfuscation](https://github.com/danielbohannon/Invoke-Obfuscation) ⭐ 4,193 | 🐛 13 | 🌐 PowerShell | 📅 2023-08-10 - PowerShell Obfuscator.
-* [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) ⭐ 2,684 | 🐛 25 | 🌐 PowerShell | 📅 2024-12-12 - Toolkit for Attacking SQL Server.
-* [PowerTools](https://github.com/Veil-Framework/PowerTools) ⭐ 2,178 | 🐛 7 | 🌐 PowerShell | 📅 2021-12-28 - Collection of projects with a focus on offensive operations.
+* [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) ⭐ 2,683 | 🐛 25 | 🌐 PowerShell | 📅 2024-12-12 - Toolkit for Attacking SQL Server.
+* [PowerTools](https://github.com/Veil-Framework/PowerTools) ⭐ 2,177 | 🐛 7 | 🌐 PowerShell | 📅 2021-12-28 - Collection of projects with a focus on offensive operations.
 * [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) ⭐ 1,547 | 🐛 6 | 🌐 C# | 📅 2019-08-02 - PowerShell Runspace Post Exploitation Toolkit.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) ⭐ 1,428 | 🐛 64 | 🌐 C# | 📅 2023-11-16 - Popular live disk forensics platform for windows.
 * [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) ⭐ 892 | 🐛 5 | 🌐 PowerShell | 📅 2021-08-20 - Module used to aid a reverse engineer.
@@ -222,8 +222,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Themes
 
-* [Starship](https://github.com/starship/starship) ⭐ 54,053 | 🐛 973 | 🌐 Rust | 📅 2026-02-11 - The minimal, blazing fast, and extremely customizable prompt for any shell.
-* [Oh-My-Posh](https://github.com/jandedobbeleer/oh-my-posh) ⭐ 21,496 | 🐛 28 | 🌐 Go | 📅 2026-02-11 - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
+* [Starship](https://github.com/starship/starship) ⭐ 54,076 | 🐛 973 | 🌐 Rust | 📅 2026-02-12 - The minimal, blazing fast, and extremely customizable prompt for any shell.
+* [Oh-My-Posh](https://github.com/jandedobbeleer/oh-my-posh) ⭐ 21,506 | 🐛 29 | 🌐 Go | 📅 2026-02-12 - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 * [Powerline](https://github.com/Jaykul/PowerLine) ⭐ 578 | 🐛 15 | 🌐 PowerShell | 📅 2024-09-04 - PowerShell Classes for richer output and prompts.
 * [PoshColor](https://github.com/JustABearOz/PoshColor) ⭐ 63 | 🐛 4 | 🌐 PowerShell | 📅 2020-12-27 - Colour output from common commands with support for custom themes.
 
@@ -269,7 +269,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,956 | 🐛 60 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native PowerShell code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,957 | 🐛 60 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native PowerShell code with zero dependencies.
 * [WSLab](https://github.com/microsoft/WSLab) ⭐ 1,280 | 🐛 21 | 🌐 PowerShell | 📅 2025-10-21 - Windows Server rapid lab deployment scripts.
 * [DbgShell](https://github.com/Microsoft/DbgShell) ⭐ 693 | 🐛 22 | 🌐 C# | 📅 2024-04-03 - A PowerShell front-end for the Windows debugger engine.
 * [PoshBot](https://github.com/poshbotio/PoshBot) ⭐ 546 | 🐛 37 | 🌐 PowerShell | 📅 2025-04-04 - Powershell-based bot framework.
